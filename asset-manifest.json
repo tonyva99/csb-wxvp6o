@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-wxvp6o/static/css/main.7079d263.chunk.css",
+    "main.js": "https://.github.io/csb-wxvp6o/static/js/main.d1b5cee2.chunk.js",
+    "main.js.map": "https://.github.io/csb-wxvp6o/static/js/main.d1b5cee2.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-wxvp6o/static/js/runtime-main.b94bbfc9.js",
+    "runtime-main.js.map": "https://.github.io/csb-wxvp6o/static/js/runtime-main.b94bbfc9.js.map",
+    "static/js/2.1b6e060f.chunk.js": "https://.github.io/csb-wxvp6o/static/js/2.1b6e060f.chunk.js",
+    "static/js/2.1b6e060f.chunk.js.map": "https://.github.io/csb-wxvp6o/static/js/2.1b6e060f.chunk.js.map",
+    "static/js/3.1ca5ebd2.chunk.js": "https://.github.io/csb-wxvp6o/static/js/3.1ca5ebd2.chunk.js",
+    "static/js/3.1ca5ebd2.chunk.js.map": "https://.github.io/csb-wxvp6o/static/js/3.1ca5ebd2.chunk.js.map",
+    "index.html": "https://.github.io/csb-wxvp6o/index.html",
+    "static/css/main.7079d263.chunk.css.map": "https://.github.io/csb-wxvp6o/static/css/main.7079d263.chunk.css.map",
+    "static/js/2.1b6e060f.chunk.js.LICENSE.txt": "https://.github.io/csb-wxvp6o/static/js/2.1b6e060f.chunk.js.LICENSE.txt",
+    "static/media/Rampage Clothing Logo.ac9412af.webp": "https://.github.io/csb-wxvp6o/static/media/Rampage Clothing Logo.ac9412af.webp",
+    "static/media/icon-twitter.1f8af10d.svg": "https://.github.io/csb-wxvp6o/static/media/icon-twitter.1f8af10d.svg",
+    "static/media/icon-youtube.d6990689.svg": "https://.github.io/csb-wxvp6o/static/media/icon-youtube.d6990689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94bbfc9.js",
+    "static/js/2.1b6e060f.chunk.js",
+    "static/css/main.7079d263.chunk.css",
+    "static/js/main.d1b5cee2.chunk.js"
+  ]
+}
